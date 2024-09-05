@@ -642,8 +642,6 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 <a name="444"></a>
 ![webapplicationuserflowdiagram](https://hackmd.io/_uploads/r1kUkpI2C.jpg)
 
-</br>
-
 ## 4.6. Domain-Driven Software Architecture
 <a name="46"></a>
 ### 4.6.1. Software Architecture Context Diagram
@@ -658,6 +656,10 @@ En el footer deben estar los términos y condiciones, política de privacidad, r
 <a name="463"></a>
 ![component](https://hackmd.io/_uploads/ryiyAgr3R.png)
 *Imagen: Components  Diagram*
+
+
+</br>
+
 
 
 
