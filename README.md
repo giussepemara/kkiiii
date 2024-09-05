@@ -19,3 +19,5 @@
 <a name="471"></a>
 ![imagen_2024-09-04_182825548](https://hackmd.io/_uploads/B1X76vInC.png)
 *Imagen: Diagrama de clases*
+
+
